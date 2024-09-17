@@ -9,7 +9,7 @@ Paper: [https://arxiv.org/abs/2409.10058](https://arxiv.org/abs/2409.10058)
 Audio samples: [https://styletts-zs.github.io/](https://styletts-zs.github.io/)
 
 ## Training
-Under construction
+### Under construction, email me at [yl4579@columbia.edu](mailto:yl4579@columbia.edu) if you can help clean the code or provide computation resources to test the code for large-scale training. 
 
 ## Inference
 Under construction
