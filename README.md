@@ -9,8 +9,9 @@ Paper: [https://arxiv.org/abs/2409.10058](https://arxiv.org/abs/2409.10058)
 Audio samples: [https://styletts-zs.github.io/](https://styletts-zs.github.io/)
 
 ## Training
-### Under construction, email me at [yl4579@columbia.edu](mailto:yl4579@columbia.edu) if you can help clean the code or provide computation resources to test the code for large-scale training. 
+### Under construction
+You can [join the discord server](https://discord.gg/Y9Xdsa4E) if you can help clean the code or provide computation resources to test the code for large-scale training. See [issue #1](https://github.com/yl4579/StyleTTS-ZS/issues/1) for more information.
 
 ## Inference
-Under construction
+### Under construction
 
