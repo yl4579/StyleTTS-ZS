@@ -10,7 +10,7 @@ Audio samples: [https://styletts-zs.github.io/](https://styletts-zs.github.io/)
 
 ## Training
 ### Under construction
-You can [join the discord server](https://discord.gg/Y9Xdsa4E) if you can help clean the code or provide computation resources to test the code for large-scale training. See [issue #1](https://github.com/yl4579/StyleTTS-ZS/issues/1) for more information.
+You can [join the discord server](https://discord.gg/aB9DeaTSJQ) if you can help clean the code or provide computation resources to test the code for large-scale training. See [issue #1](https://github.com/yl4579/StyleTTS-ZS/issues/1) for more information.
 
 ## Inference
 ### Under construction
